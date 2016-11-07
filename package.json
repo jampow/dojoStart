@@ -1,0 +1,31 @@
+{
+  "name": "dojostart",
+  "version": "1.0.0",
+  "description": "Projeto inicial para um coding dojo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumberjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jampow/dojoStart.git"
+  },
+  "keywords": [
+    "dojo",
+    "baby",
+    "steps",
+    "test",
+    "tests",
+    "cucumber",
+    "js"
+  ],
+  "author": "Gianpaulo M. Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jampow/dojoStart/issues"
+  },
+  "homepage": "https://github.com/jampow/dojoStart#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
