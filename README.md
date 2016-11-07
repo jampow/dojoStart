@@ -2,11 +2,40 @@
 
 Projeto inicial para um coding dojo.
 
+## Instalação
+
+Para rodar os testes deste exercício é preciso ter o mocha.js instalado na sua máquina. Para isso, execute o comando abaixo:
+
+```
+npm install -g mocha
+```
+
+Copie o projeto para a sua máquina.
+
+```
+git clone https://github.com/jampow/dojoStart
+```
+
+Acesse a pasta.
+
+```
+cd dojoStart
+```
+
+Instale as dependências do projeto.
+
+```
+npm install
+```
+
+Pronto!
+
+
 ## O que é Coding Dojo?
 
 No mundo da tecnologia da informação as novidades surgem a todo momento. Por mais que um time procure se manter atualizado sobre tudo, é extremamente importante existir um ambiente onde novas técnicas possam ser aprendidas, testadas, praticadas e compartilhadas.
 
-_Fonte: (devmeda)[http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517]_
+_Fonte: [devmeda](http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517)_
 
 ## Formato utilizado
 
@@ -14,7 +43,7 @@ _Fonte: (devmeda)[http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517]_
 A pessoa que está codificando é o piloto, e seu par o co-piloto. A cada cinco minutos o piloto volta para a plateia e o co-piloto assume a condição de piloto. Uma pessoa da plateia passa a assumir a posição de co-piloto.
 Somente são permitidas interrupções quando todos os testes estiverem no verde. É importante notar também que é a dupla quem decide o que será feito para solucionar o problema. Todos devem entender a solução, que deve ser explicada pelo piloto e pelo co-piloto ao final de seu ciclo de implementação;
 
-_Fonte: (devmeda)[http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517]_
+_Fonte: [devmeda](http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517)_
 
 ## Retrospectiva
 
