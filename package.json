@@ -27,5 +27,9 @@
   "homepage": "https://github.com/jampow/dojoStart#readme",
   "dependencies": {
     "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "wdio-cucumber-framework": "^0.2.11",
+    "wdio-spec-reporter": "0.0.3"
   }
 }
