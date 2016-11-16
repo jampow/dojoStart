@@ -29,7 +29,8 @@
     "chai": "^3.5.0"
   },
   "devDependencies": {
-    "wdio-cucumber-framework": "^0.2.11",
+    "wdio-cucumber-framework": "^0.2.12",
+    "wdio-selenium-standalone-service": "0.0.7",
     "wdio-spec-reporter": "0.0.3"
   }
 }
